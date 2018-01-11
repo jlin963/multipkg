@@ -15,4 +15,7 @@
     "requirejs": "2.3.3",
     "sinon": "2.3.7",
   },
+  "scripts": {
+    "build": "npm install"
+  },
 }
